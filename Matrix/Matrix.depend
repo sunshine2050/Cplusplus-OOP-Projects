@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1502222495 source:/home/sunshine1/C++/Matrix/main.cpp
+	<iostream>
+	"Matrix.h"
+
+1502220234 /home/sunshine1/C++/Matrix/include/Matrix.h
+	<iostream>
+
+1502222527 source:/home/sunshine1/C++/Matrix/src/Matrix.cpp
+	<math.h>
+	<assert.h>
+	"Matrix.h"
+

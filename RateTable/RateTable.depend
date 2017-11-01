@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1505860231 source:/home/sunshine1/C++/RateTable/main.cpp
+	<iostream>
+	"RateTable.h"
+
+1505860127 source:/home/sunshine1/C++/RateTable/src/RateTable.cpp
+	<string.h>
+	"RateTable.h"
+
+1505860101 /home/sunshine1/C++/RateTable/include/RateTable.h
+	"Rate.h"
+
+1505853523 /home/sunshine1/C++/RateTable/include/Rate.h
+	<iostream>
+	<string>
+

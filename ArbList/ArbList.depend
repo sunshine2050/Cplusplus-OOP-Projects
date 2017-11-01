@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1505860609 source:/home/sunshine1/C++/ArbList/main.cpp
+	<iostream>
+
+1505999941 source:/home/sunshine1/C++/ArbList/src/ArbList.cpp
+	"/home/sunshine1/C++/ArbList/include/ArbList.h"
+
+1505999746 /home/sunshine1/C++/ArbList/include/ArbList.h
+	<iostream>
+
+1505999746 source:/home/sunshine1/C++/ArbList/include/ArbList.h
+	<iostream>
+

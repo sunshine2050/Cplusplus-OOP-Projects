@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1501665882 source:/home/sunshine1/C++/WordCount_Circular Buffer/main.cpp
+	<iostream>
+	"WordCount.h"
+
+1501665903 /home/sunshine1/C++/WordCount_Circular Buffer/include/WordCount.h
+	"Cirbuf.h"
+
+1501665262 /home/sunshine1/C++/WordCount_Circular Buffer/include/Cirbuf.h
+
+1501665219 source:/home/sunshine1/C++/WordCount_Circular Buffer/src/Cirbuf.cpp
+	<iostream>
+	"Cirbuf.h"
+
+1501665639 source:/home/sunshine1/C++/WordCount_Circular Buffer/src/WordCount.cpp
+	<iostream>
+	"WordCount.h"
+

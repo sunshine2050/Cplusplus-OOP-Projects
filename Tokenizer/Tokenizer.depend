@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1506110911 source:/home/sunshine1/C++/Tokenizer/main.cpp
+	<iostream>
+	<Tokenizer.h>
+
+1506110986 source:/home/sunshine1/C++/Tokenizer/src/Tokenizer.cpp
+	"Tokenizer.h"
+
+1506098249 /home/sunshine1/C++/Tokenizer/include/Tokenizer.h
+	<string>
+

@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1505775922 source:/home/sunshine1/C++/Linked List/main.cpp
+	<iostream>
+	<List.h>
+
+1505775638 source:/home/sunshine1/C++/Linked List/src/List.cpp
+	<iostream>
+	"List.h"
+
+1505772051 /home/sunshine1/C++/Linked List/include/List.h
+

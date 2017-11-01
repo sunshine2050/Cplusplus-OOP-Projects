@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1506367650 source:/home/sunshine1/C++/TextLines/main.cpp
+	<iostream>
+
+1506452153 source:/home/sunshine1/C++/TextLines/src/TextLines.cpp
+	"TextLines.h"
+	<iostream>
+
+1506452142 /home/sunshine1/C++/TextLines/include/TextLines.h
+	<vector>
+	<iostream>
+	<string>
+

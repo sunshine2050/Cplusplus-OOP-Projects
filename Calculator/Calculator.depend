@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1505612169 source:/home/sunshine1/C++/Calculator/main.cpp
+	<iostream>
+	"Calculator.h"
+
+1505606641 source:/home/sunshine1/C++/Calculator/src/CalcEng.cpp
+	<math.h>
+	"CalcEng.h"
+
+1505605742 /home/sunshine1/C++/Calculator/include/CalcEng.h
+
+1505611720 source:/home/sunshine1/C++/Calculator/src/CalcFace.cpp
+	<iostream>
+	<strstream>
+	"CalcFace.h"
+
+1505611155 /home/sunshine1/C++/Calculator/include/CalcFace.h
+	<iostream>
+	<string>
+
+1505612199 /home/sunshine1/C++/Calculator/include/Calculator.h
+	"CalcEng.h"
+	"CalcFace.h"
+
+1505612042 source:/home/sunshine1/C++/Calculator/src/Calculator.cpp
+	"Calculator.h"
+

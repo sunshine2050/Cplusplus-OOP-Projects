@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1501048717 source:/home/sunshine1/C++/Rectangle/main.cpp
+	<iostream>
+	"Vector2D.h"
+
+1500829427 /home/sunshine1/C++/Rectangle/Vector2D.h
+	<iostream>
+
